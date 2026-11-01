@@ -1,0 +1,10 @@
+{
+  "name": "githubactions_examples",
+  "version": "1.0.0",
+  "description": "Ejemplos de GitHub Actions con Node.js (linter + jest)",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "ISC"
+}
